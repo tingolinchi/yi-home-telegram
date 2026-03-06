@@ -1,0 +1,9 @@
+# Telegram credentials — never commit these
+config.env
+
+# Temporary files
+*.pcm
+*.raw
+*.ogg
+*.mp4
+*.log

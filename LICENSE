@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 tingolinchi
+Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,43 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL DISCLAIMER
+
+This project is an unofficial modification for the Yi Home 1080p camera and is
+not affiliated with, endorsed by, or supported by Yi Technology Co., Ltd. or
+any of its subsidiaries.
+
+1. NO WARRANTY
+   This software is provided without any warranty of any kind. The authors
+   make no representations or guarantees regarding the functionality,
+   reliability, or fitness for any particular purpose of this software.
+
+2. DEVICE WARRANTY
+   Installing this software on your camera may void the manufacturer's
+   warranty. You accept full responsibility for any damage to your device
+   resulting from the use of this software.
+
+3. PRIVACY AND LEGAL COMPLIANCE
+   This software enables audio and video recording, motion detection, and
+   remote monitoring capabilities. It is your sole responsibility to:
+   - Comply with all applicable local, national, and international laws
+     regarding audio/video recording and surveillance.
+   - Obtain any necessary consent from individuals who may be recorded.
+   - Ensure the system is used in a lawful and ethical manner.
+   The authors accept no liability for any unlawful use of this software.
+
+4. SECURITY
+   You are solely responsible for securing access to your Telegram bot,
+   credentials, and camera. The authors accept no liability for any
+   unauthorised access, data breach, or misuse resulting from insecure
+   configuration or deployment of this software.
+
+5. LIMITATION OF LIABILITY
+   Under no circumstances shall the authors or contributors be liable for
+   any direct, indirect, incidental, special, exemplary, or consequential
+   damages (including but not limited to loss of data, loss of privacy,
+   device damage, or financial loss) arising from the use or inability to
+   use this software, even if advised of the possibility of such damages.
