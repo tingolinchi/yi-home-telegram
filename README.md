@@ -170,3 +170,14 @@ See the [LICENSE](./LICENSE) file for the full legal text.
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
 The license includes an additional disclaimer covering device warranty, privacy compliance, security responsibilities, and limitation of liability.
+
+---
+
+## 💰 Donation
+
+If you enjoy this project, please consider supporting its maintenance with a donation. Thanks!!
+
+Use the below QR code to donate via PayPal
+
+<img width="500" height="500" alt="qrcode" src="https://github.com/user-attachments/assets/85e7165a-fea9-4539-b55b-15ffc97b0419" />
+
