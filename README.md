@@ -179,5 +179,5 @@ If you enjoy this project, please consider supporting its maintenance with a don
 
 Use the below QR code to donate via PayPal
 
-<img width="500" height="500" alt="qrcode" src="https://github.com/user-attachments/assets/85e7165a-fea9-4539-b55b-15ffc97b0419" />
+<img width="200" height="200" alt="qrcode" src="https://github.com/user-attachments/assets/85e7165a-fea9-4539-b55b-15ffc97b0419" />
 
