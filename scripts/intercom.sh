@@ -2,7 +2,7 @@
 
 # =============================================================
 # intercom.sh — Intercomunicador bidireccional via Telegram
-# Firmware: yi-hack-allwinner v5
+# Firmware: yi-hack-allwinner v2
 # =============================================================
 
 export PATH=/tmp/sd/yi-hack/bin:/tmp/sd/yi-hack/sbin:/tmp/sd/yi-hack/usr/bin:/usr/bin:/usr/sbin:/bin:/sbin:/home/base/tools:/home/app/localbin:/home/base
