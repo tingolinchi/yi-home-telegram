@@ -43,7 +43,7 @@ A complete remote surveillance and control system for the **Yi Home 1080p** came
 | `/silent_on` / `/silent_off` | Silence / re-enable alerts |
 | `/led_on` / `/led_off` | Turn blue LED on / off |
 | `/ir_on` / `/ir_off` | Turn infrared on / off |
-| `/estado` | Show system status |
+| `/status` | Show system status |
 | `/log` | Show last 30 lines of the log |
 | `/reboot` | Reboot the camera |
 | `/help` | Show all available commands |
