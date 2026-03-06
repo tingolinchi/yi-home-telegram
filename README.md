@@ -93,7 +93,6 @@ CHAT_ID="YOUR_CHAT_ID_HERE"
 EOF
 ```
 
-> ⚠️ **Never commit `config.env` to version control.** It is listed in `.gitignore`.
 
 ### 4. Create your Telegram bot
 
