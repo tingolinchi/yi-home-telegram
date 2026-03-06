@@ -1,6 +1,6 @@
 # 🎥 Yi Home 1080p — Telegram Control System
 
-A complete remote surveillance and control system for the **Yi Home 1080p** camera running **yi-hack-allwinner v2** firmware. Control your camera, receive automatic alerts, and communicate bidirectionally — all through a Telegram bot.
+A complete remote surveillance and control system for the **Yi Home 1080p** camera running **yi-hack-allwinner v2** firmware by [roleoroleo](https://github.com/roleoroleo/yi-hack-Allwinner-v2?tab=readme-ov-file). Control your camera, receive automatic alerts, and communicate bidirectionally — all through a Telegram bot.
 
 ---
 
