@@ -105,8 +105,8 @@ cmd_reboot() {
     reboot
 }
 
-cmd_estado() {
-    log "Executing /estado"
+cmd_status() {
+    log "Executing /status"
     HORA=$(date '+%d/%m/%Y %H:%M:%S')
     UPTIME=$(uptime | sed 's/^ *//')
     MEM_TOTAL=$(grep MemTotal /proc/meminfo | awk '{print $2}')
@@ -389,7 +389,7 @@ cmd_help() {
 💡 /led_off — Turn off blue LED
 🔆 /ir_on — Turn on infrared
 🔅 /ir_off — Turn off infrared
-📊 /estado — Show system status
+📊 /stat — Show system status
 📋 /log — Show last log lines
 🔄 /reboot — Reboot camera
 ❓ /help — Show this message"
@@ -441,7 +441,7 @@ while true; do
             /snapshot)   cmd_snapshot  ;;
             /video)      cmd_video     ;;
             /reboot)     cmd_reboot    ;;
-            /estado)     cmd_estado    ;;
+            /status)     cmd_status    ;;
             /motion_on)  cmd_motion_on ;;
             /motion_off) cmd_motion_off;;
             /sound_on)   cmd_sound_on  ;;
