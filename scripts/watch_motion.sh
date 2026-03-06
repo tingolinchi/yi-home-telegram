@@ -2,7 +2,7 @@
 
 # =============================================================
 # watch_motion.sh — Motion detection watcher
-# Firmware: yi-hack-allwinner v5
+# Firmware: yi-hack-allwinner v2
 #
 # Monitors /tmp/motion.jpg and when it detects a new image
 # sends it as a Telegram alert (photo + message).
