@@ -2,7 +2,7 @@
 
 # =============================================================
 # Yi Home 1080p camera control script via Telegram
-# Firmware: yi-hack-allwinner v5
+# Firmware: yi-hack-allwinner v2
 # =============================================================
 
 # --- CONFIGURACIÓN ---
