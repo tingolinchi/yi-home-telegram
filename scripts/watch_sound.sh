@@ -2,7 +2,7 @@
 
 # =============================================================
 # watch_sound.sh — Sound detection for Yi Home 1080p
-# Firmware: yi-hack-allwinner v5
+# Firmware: yi-hack-allwinner v2
 # Reads PCM 16-bit little-endian from /tmp/audio_fifo,
 # calculates average volume and alerts via Telegram if it exceeds
 # the configured threshold. Sends snapshot + 15s audio.
