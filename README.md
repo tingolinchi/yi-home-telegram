@@ -177,7 +177,13 @@ The license includes an additional disclaimer covering device warranty, privacy 
 
 If you enjoy this project, please consider supporting its maintenance with a donation. Thanks!!
 
-Use the below QR code to donate via PayPal
+Click [here](https://www.paypal.com/donate/?hosted_button_id=UUDC75BZZK2Q8) or use the below QR code or push the button to donate via PayPal
 
-<img width="200" height="200" alt="qrcode" src="https://github.com/user-attachments/assets/85e7165a-fea9-4539-b55b-15ffc97b0419" />
+<img width="128" height="128" alt="QRcode" src="https://github.com/user-attachments/assets/5e08ec5c-8d72-4cc9-9c28-e6b8da8e5345" />
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="UUDC75BZZK2Q8" />
+<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
