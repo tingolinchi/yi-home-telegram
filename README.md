@@ -146,7 +146,7 @@ tail -f /tmp/intercom.log
 
 ## 📄 Documentation
 
-Full technical documentation is available in [`yi_telegram_documentation.docx`](./yi_telegram_documentation.docx), covering architecture, script internals, audio format discovery, installation steps, and troubleshooting.
+Full technical documentation is available in [`yi_telegram_documentation.odt`](./yi_telegram_documentation.odt), covering architecture, script internals, audio format discovery, installation steps, and troubleshooting.
 
 ---
 
