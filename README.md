@@ -64,6 +64,8 @@ The following ARM-precompiled binaries must be present on the camera:
 | `ipc_cmd` | Hardware control (LED, IR, motion) |
 
 All binaries should be placed in `/tmp/sd/yi-hack/bin/`.
+Download [curl by @moparisthebest](https://github.com/moparisthebest/static-curl/releases/download/v8.11.0/curl-armv7).
+Download [ffmpeg by @johnvansickle](https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-armhf-static.tar.xz).
 
 ---
 
