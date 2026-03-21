@@ -118,6 +118,18 @@ sh /tmp/sd/yi-hack/script/telegram_control.sh &
 
 The scripts start automatically on boot via `lower_half_init.sh`.
 
+if watch_sound.sh doesnt start execute this on shell:
+```sh
+ssh root@<camara_ip>
+# Actual value
+cat /tmp/sd/yi-hack/etc/system.conf | grep RTSP_AUDIO
+
+# If empty, activate
+sed -i 's/^RTSP_AUDIO=$/RTSP_AUDIO=pcm/' /tmp/sd/yi-hack/etc/system.conf
+
+# Check it
+cat /tmp/sd/yi-hack/etc/system.conf | grep RTSP_AUDIO
+```
 ---
 
 ## 🔊 Audio technical details
