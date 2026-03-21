@@ -23,6 +23,7 @@ fi
 
 AUDIO_FIFO="/tmp/audio_fifo"
 AUDIO_FIFO_REQ="/tmp/audio_fifo.requested"
+SILENT_FILE="/tmp/tg_silent"
 LOG_FILE="/tmp/watch_sound.log"
 SNAPSHOT_PATH="/tmp/sound_snapshot.jpg"
 AUDIO_PATH="/tmp/sound_alert.ogg"
@@ -72,6 +73,13 @@ capture_audio() {
 
 send_alert() {
     VOLUME="$1"
+
+    # Check if alerts are silenced
+    if [ -f "$SILENT_FILE" ]; then
+        log "Alert silenced - sound detected (volume: $VOLUME) but notification skipped"
+        return
+    fi
+    
     TIMESTAMP=$(date '+%d/%m/%Y %H:%M:%S')
 
     # 1. Send immediate alert message
